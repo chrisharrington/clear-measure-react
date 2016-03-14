@@ -6,8 +6,4 @@ Once that's done, you'll need to install webpack globally so as to have access t
 
 ```npm install webpack -g```
 
-Then, you can run webpack to transpile all of your JSX into JavaScript.
-
-```webpack```
-
-Throw in a -w (webpack -w) to have it watch for your changes. Then open dist/index.html in a browser and you're good to go.
+Then, you can run webpack to transpile all of your JSX into JavaScript. Throw in a -w (webpack -w) to have it watch for your changes. Then open dist/index.html in a browser and you're good to go.
